@@ -6,7 +6,7 @@
 * hello,欢迎来到yatori系列仓库，yatori系列旨在解放大学生网课而成立的一个项目，其项目主要针对于水网课，解放大学生们的时间
 * 本项目始终开源免费，同时也欢迎各位大佬贡献代码或指出问题
 * 官方QQ交流群：932447008
-* 官方文档：[点击进入](https://yatori-dev.github.io/yatori-docs/)
+* 官方文档：[点击进入](https://yatori-dev.github.io/yatori-docs)
 
 ### 🚀 项目结构
 * yatori-go-core：yatori-go系列核心产品，所有yatori-go产品都会围绕此项目进行衍生开发，内部包含了所有平台的逆向，同时也暴露了外部接口供给各大开发者进行二次开发，但请遵循开源协议，不要做“赛博顶针，我抄似你的码”

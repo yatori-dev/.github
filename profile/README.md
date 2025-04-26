@@ -5,7 +5,9 @@
 ### 🚀 关于yatori
 * hello,欢迎来到yatori系列仓库，yatori系列旨在解放大学生网课而成立的一个项目，其项目主要针对于水网课，解放大学生们的时间
 * 本项目始终开源免费，同时也欢迎各位大佬贡献代码或指出问题
-* 官方QQ交流群：932447008
+* 官方QQ交流群：
+  * [932447008](https://qm.qq.com/q/KREkme4rYc)（一群）
+  * [1044155704](https://qm.qq.com/q/ZmBAjtFJi6)（二群）
 * 官方文档：[点击进入](https://yatori-dev.github.io/yatori-docs)
 
 ### 🚀 项目结构

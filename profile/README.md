@@ -9,6 +9,7 @@
   * [932447008](https://qm.qq.com/q/KREkme4rYc)（一群）
   * [1044155704](https://qm.qq.com/q/ZmBAjtFJi6)（二群）
 * 官方文档：[点击进入](https://yatori-dev.github.io/yatori-docs)
+* 配置文件生成器：[点击进入](https://yatori-dev.github.io/yatori-config-generate/)
 
 ### 🚀 项目结构
 * yatori-go-core：yatori-go系列核心产品，所有yatori-go产品都会围绕此项目进行衍生开发，内部包含了所有平台的逆向，同时也暴露了外部接口供给各大开发者进行二次开发，但请遵循开源协议，不要做“赛博顶针，我抄似你的码”

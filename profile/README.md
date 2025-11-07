@@ -1,4 +1,4 @@
-![yatori-go-console](https://socialify.git.ci/yatori-dev/yatori-go-console/image?font=Raleway&forks=1&issues=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185567923%3Fs%3D96%26v%3D4&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark)
+![yatori-go-console](https://socialify.git.ci/yatori-dev/yatori-go-console/image?font=Raleway&forks=1&issues=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185567923%3Fs%3D1000%26v%3D4&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark)
 
 <div align="center"><h1>Yatori课程助手</h1></div>
 

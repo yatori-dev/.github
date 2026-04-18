@@ -8,6 +8,7 @@
 * 官方QQ交流群：
   * [932447008](https://qm.qq.com/q/KREkme4rYc)（一群）（推荐）
   * [1044155704](https://qm.qq.com/q/ZmBAjtFJi6)（二群）
+  * [1101685348](https://qm.qq.com/q/RzyoaPIty2)（三群）
 * 官方文档：[点击进入](https://yatori-dev.github.io/yatori-docs)
 * 配置文件生成器：[点击进入](https://yatori-dev.github.io/yatori-config-generate/)
 
